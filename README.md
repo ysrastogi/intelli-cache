@@ -3,7 +3,7 @@
 
 ## Overview
 
-IntelliCache is a Django-based web application designed to simplify the process of downloading, managing, and running inference on Hugging Face transformer models locally. This tool provides an intuitive interface for data scientists and machine learning engineers to work with state-of-the-art NLP models efficiently.
+IntelliCache is a application designed to simplify the process of downloading, managing, and running inference on Hugging Face transformer models locally. This tool provides an intuitive interface for data scientists and machine learning engineers to work with state-of-the-art NLP models efficiently.
 
 ## Features
 
